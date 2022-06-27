@@ -9,4 +9,5 @@
 ## Assignments
 - [Assignment 1](https://github.com/andrei-dragan/fp-a1) - getting used to Python programming language by solving some problem statements.
 - [Assignment 2](https://github.com/andrei-dragan/fp-a2) - implement a menu-driven console application that works with complex numbers.
+- [Assignment 3](https://github.com/andrei-dragan/fp-a3) - implement a command-based console application to administrate the apartments in a building, using procedoral programming, input validation, specifications and tests.
 
