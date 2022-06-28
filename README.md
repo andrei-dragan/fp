@@ -1,4 +1,4 @@
-# Fundamentals of Programming - in python
+# 💻 Fundamentals of Programming - in python
 ## Objectives
 - To know the key concepts of programming.
 - To know the basic concepts of software engineering (design, implementation and maintenance of software systems).
